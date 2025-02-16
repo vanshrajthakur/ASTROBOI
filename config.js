@@ -4,7 +4,7 @@ module.exports = {
   TOKEN: "",
   language: "en",
   ownerID: ["1004206704994566164", ""], 
-  mongodbUri : "mongodb+srv://vanshrajvansh123@discordbot.qia63.mongodb.net/?retryWrites=true&w=majority&appName=discordbot",
+  mongodbUri : "mongodb+srv://vanshraj:vansh2790@discordbot.qia63.mongodb.net/?retryWrites=true&w=majority&appName=discordbot",
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#1db954",
